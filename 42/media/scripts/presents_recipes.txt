@@ -1,0 +1,18 @@
+module PresentsRecipes {
+    imports {
+        Base
+    }
+
+    craftRecipe WrapPresent {
+        Time = 10,
+        category = Clothing,
+        Tags = InHandCraft;CanBeDoneInDark,
+        OnCreate = WrapPresent_OnCreate,
+        OnTest = WrapPresent_OnTest,
+        inputs
+        {
+            item 1 tags[SimpleWeaponBinding],
+            item 1 [Base.BurlapPiece;Base.Aluminum;Base.Newspaper;Base.Shoebox;Base.TakeoutBox_Styrofoam;Base.Lunchbag]
+        }
+    }
+}
