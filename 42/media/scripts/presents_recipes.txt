@@ -12,7 +12,7 @@ module PresentsRecipes {
         inputs
         {
             item 1 tags[SimpleWeaponBinding],
-            item 1 [Base.BurlapPiece;Base.Aluminum;Base.Newspaper;Base.Shoebox;Base.TakeoutBox_Styrofoam;Base.Lunchbag]
+            item 1 [Base.BurlapPiece;Base.Aluminum;Base.Newspaper;Base.Shoebox;Base.TakeoutBox_Styrofoam;Base.Lunchbag],
         }
     }
 }
