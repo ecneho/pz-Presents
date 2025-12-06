@@ -1,9 +1,9 @@
 local containers = {
-    { maxWeight = 1.0,  type = "Base.Present_ExtraSmall" },
-    { maxWeight = 2.0,  type = "Base.Present_Small"      },
-    { maxWeight = 5.0,  type = "Base.Present_Medium"     },
-    { maxWeight = 10.0, type = "Base.Present_Large"      },
-    { maxWeight = 20.0, type = "Base.Present_ExtraLarge" }
+    { maxWeight = 1.0,  type = "PresentsItems.Present_ExtraSmall" },
+    { maxWeight = 2.0,  type = "PresentsItems.Present_Small"      },
+    { maxWeight = 5.0,  type = "PresentsItems.Present_Medium"     },
+    { maxWeight = 10.0, type = "PresentsItems.Present_Large"      },
+    { maxWeight = 20.0, type = "PresentsItems.Present_ExtraLarge" }
 }
 
 ---@param item InventoryItem

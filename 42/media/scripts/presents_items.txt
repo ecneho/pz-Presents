@@ -1,0 +1,57 @@
+module PresentsItems
+{
+    item Present_ExtraSmall
+    {
+        DisplayCategory = Container,
+        Type = Container,
+        Weight = 1.0,
+        Capacity = 1,
+        Icon = Present1,
+        WorldStaticModel = Gift1,
+        Tags = NeverEmpty;IsFireFuel;IsFireTinder,
+    }
+
+    item Present_Small
+    {
+        DisplayCategory = Container,
+        Type = Container,
+        Weight = 1.0,
+        Capacity = 2,
+        Icon = Present2,
+        WorldStaticModel = Gift2,
+        Tags = NeverEmpty;IsFireFuel;IsFireTinder,
+    }
+
+    item Present_Medium
+    {
+        DisplayCategory = Container,
+        Type = Container,
+        Weight = 1.0,
+        Capacity = 5,
+        Icon = Present3,
+        WorldStaticModel = Gift3,
+        Tags = NeverEmpty;IsFireFuel;IsFireTinder,
+    }
+
+    item Present_Large
+    {
+        DisplayCategory = Container,
+        Type = Container,
+        Weight = 1.0,
+        Capacity = 10,
+        Icon = Present4,
+        WorldStaticModel = Gift4,
+        Tags = NeverEmpty;IsFireFuel;IsFireTinder,
+    }
+
+    item Present_ExtraLarge
+    {
+        DisplayCategory = Container,
+        Type = Container,
+        Weight = 1.0,
+        Capacity = 20,
+        Icon = Present5,
+        WorldStaticModel = Gift5,
+        Tags = NeverEmpty;IsFireFuel;IsFireTinder,
+    }
+}
