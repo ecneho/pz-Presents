@@ -1,0 +1,7 @@
+ItemName_EN = {
+    ItemName_PresentsItems.Present_ExtraSmall = "Present (Extra Small)",
+    ItemName_PresentsItems.Present_Small = "Present (Small)",
+    ItemName_PresentsItems.Present_Medium = "Present (Medium)",
+    ItemName_PresentsItems.Present_Large = "Present (Large)",
+    ItemName_PresentsItems.Present_ExtraLarge = "Present (Extra Large)",
+}

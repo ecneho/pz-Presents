@@ -1,0 +1,37 @@
+module PresentsModels
+{
+    model Gift1
+    {
+        mesh = Gift1,
+        texture = WorldItems/Gift1,
+        scale = 0.007,
+    }
+
+    model Gift2
+    {
+        mesh = Gift2,
+        texture = WorldItems/Gift2,
+        scale = 0.007,
+    }
+
+    model Gift3
+    {
+        mesh = Gift3,
+        texture = WorldItems/Gift3,
+        scale = 0.007,
+    }
+
+    model Gift4
+    {
+        mesh = Gift4,
+        texture = WorldItems/Gift4,
+        scale = 0.007,
+    }
+
+    model Gift5
+    {
+        mesh = Gift5,
+        texture = WorldItems/Gift5,
+        scale = 0.007,
+    }
+}
